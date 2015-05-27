@@ -20,7 +20,7 @@ use App\Model\Product;
  */
 class CartDisplayHandler
 {
-    const DISPLAY_TOTAL = 'Total';
+    const DISPLAY_TOTAL = 'Total:';
     const DISPLAY_MONEY = '£';
     const DISPLAY_FORMAT = '%0.2f';
 
