@@ -1,0 +1,41 @@
+[
+    {
+        "id": "lemon",
+        "name": "Lemon",
+        "price": 0.50,
+        "discounts": [
+            {
+                "minAmount": 0,
+                "maxAmount": 10,
+                "reduction": 0.00
+            },
+            {
+                "minAmount": 10,
+                "maxAmount": null,
+                "reduction": 0.10
+            }
+        ]
+    },
+    {
+        "id": "tomatoe",
+        "name": "Tomatoe",
+        "price": 0.20,
+        "discounts": [
+            {
+                "minAmount": 0,
+                "maxAmount": 20,
+                "reduction": 0.00
+            },
+            {
+                "minAmount": 20,
+                "maxAmount": 100,
+                "reduction": 0.10
+            },
+            {
+                "minAmount": 100,
+                "maxAmount": null,
+                "reduction": 0.30
+            }
+        ]
+    }
+]
