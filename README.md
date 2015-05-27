@@ -7,7 +7,7 @@ This repository provides a simple PHP API following [these specifications][1].
 ----------------------------------
 ### Clone the repository
 
-    git clone https://github.com/lechatquidanse/data-dealer-sandbox.git
+    git clone https://github.com/lechatquidanse/cart-api.git
     
 
 ### Use Composer to install vendors
