@@ -1,4 +1,5 @@
 # cart-api
+<<<<<<< HEAD
 
 This repository provides a simple PHP API following [these specifications][1].
 
@@ -48,3 +49,5 @@ Authors
 -------
 
 * Stéphane EL MANOUNI
+=======
+>>>>>>> cf3b7dc115225373bb54dad4ad5d97cb7a424596
