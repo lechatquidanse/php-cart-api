@@ -48,5 +48,3 @@ Authors
 -------
 
 * Stéphane EL MANOUNI
-=======
->>>>>>> cf3b7dc115225373bb54dad4ad5d97cb7a424596
