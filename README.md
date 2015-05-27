@@ -1,5 +1,4 @@
 # cart-api
-<<<<<<< HEAD
 
 This repository provides a simple PHP API following [these specifications][1].
 
